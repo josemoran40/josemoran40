@@ -4,7 +4,7 @@
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=josemoran40&show_icons=true&locale=en&layout=compact" alt="josemoran40" /></p>
-
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=josemoran40&show_icons=true&locale=en" alt="josemoran40" /></p>
 <!--
 **josemoran40/josemoran40** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
