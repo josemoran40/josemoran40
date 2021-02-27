@@ -1,4 +1,6 @@
-[![ProfileBanner](https://github.com/josemoran40/josemoran40/blob/main/personal.gif)]
+<p align="center">
+  <img width="480" height="270" src="https://github.com/josemoran40/josemoran40/blob/main/personal.gif">
+</p>
 
 <!--
 **josemoran40/josemoran40** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
