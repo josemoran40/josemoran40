@@ -2,8 +2,9 @@
   <img width="480" height="270" src="https://github.com/josemoran40/josemoran40/blob/main/personal.gif">
 </p>
 
-
-<p aling="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=josemoran40&show_icons=true&locale=en" alt="josemoran40" /></p>
+<p align="center">
+  <img alt="Jose's Github Stats" src="https://github-readme-stats.vercel.app/api?username=josemoran40&show_icons=true&locale=en">
+</p>
 <!--
 **josemoran40/josemoran40** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
