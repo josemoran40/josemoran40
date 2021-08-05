@@ -5,6 +5,8 @@
 <p align="center">
   <img alt="Jose's Github Stats" src="https://github-readme-stats.vercel.app/api?username=josemoran40&show_icons=true&locale=en">
 </p>
+
+Watch some projects [here](https://josemoran40.github.io/my_profile/)
 <!--
 **josemoran40/josemoran40** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
