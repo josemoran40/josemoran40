@@ -1,6 +1,6 @@
-<p align="center">
+<!--p align="center">
   <img width="480" height="270" src="https://github.com/josemoran40/josemoran40/blob/main/personal.gif">
-</p>
+</p-->
 
 <p align="center">
   <img alt="Jose's Github Stats" src="https://github-readme-stats.vercel.app/api?username=josemoran40&show_icons=true&locale=en">
