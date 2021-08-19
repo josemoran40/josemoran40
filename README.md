@@ -2,6 +2,13 @@
   <img width="480" height="270" src="https://github.com/josemoran40/josemoran40/blob/main/personal.gif">
 </p-->
 
+<h1 align="center">Hi 👋, I'm José Morán!</h1>
+<br>
+
+- 🔭 I’m currently working on frontend development
+- 🌱 I’m currently learning GSAP
+- ⚡️ Fun fact: I'm a huge fan of Club América
+
 <p align="center">
   <img alt="Jose's Github Stats" src="https://github-readme-stats.vercel.app/api?username=josemoran40&show_icons=true&locale=en">
 </p>
