@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on full stack development
 - 🌱 I’m currently learning Laravel
-- ⚡️ Fun fact: I'm a huge fan of Club América
+- 🦅 Fun fact: I'm a huge fan of Club América
 
 <p align="center">
   <img alt="Jose's Github Stats" src="https://github-readme-stats.vercel.app/api?username=josemoran40&show_icons=true&locale=en">
