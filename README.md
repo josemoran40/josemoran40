@@ -5,8 +5,8 @@
 <h1 align="center">Hi 👋, I'm José Morán!</h1>
 <br>
 
-- 🔭 I’m currently working on frontend development
-- 🌱 I’m currently learning GSAP
+- 🔭 I’m currently working on full stack development
+- 🌱 I’m currently learning Laravel
 - ⚡️ Fun fact: I'm a huge fan of Club América
 
 <p align="center">
